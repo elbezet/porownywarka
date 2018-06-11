@@ -4,7 +4,7 @@
 
 <body>
 <?php
-$conn=mysql_connect('localhost', 'ofergra', 'Bartekd1!');
+$conn=mysql_connect('localhost', 'ofergra', 'haslo!');
 if (!$conn)
  {
      print "Błąd: nie udało się połączyć z bazą<br>" ;
